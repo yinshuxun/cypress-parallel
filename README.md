@@ -116,6 +116,14 @@ You can get the current thread index by reading the `CYPRESS_THREAD` variable.
  // return 1, 2, 3, 4, ...
 ```
 
+### Extends by yinshuxun
+
+you can use --before & --after hook to run script 
+
+```shell
+    "cy:parallel": "node_modules/.bin/cypress-parallel --before cy:run-before --after cy:run-after -s cy:run --strictMode false -t 4 -d 'cypress/integration/1/*.js'",
+```
+
 # Contributors
 
 Looking for contributors.

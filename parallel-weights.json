@@ -1,0 +1,12 @@
+{
+  "cypress/integration/1/1-1/modify-pizza.spec.js": {
+    "time": 23304,
+    "weight": 16
+  },
+  "cypress/integration/1/1-1/new-pizza-1.spec.js": { "time": 924, "weight": 0 },
+  "cypress/integration/1/[boo].after.js": { "time": 598, "weight": 0 },
+  "cypress/integration/1/[foo].before.js": { "time": 658, "weight": 0 },
+  "cypress/integration/1/delete-pizza.js": { "time": 26571, "weight": 19 },
+  "cypress/integration/1/new-pizza.spec.js": { "time": 24928, "weight": 17 },
+  "cypress/integration/1/pizzas.spec.js": { "time": 20064, "weight": 14 }
+}
